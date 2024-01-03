@@ -1,0 +1,6 @@
+framework module Pods_CartoonHomework8_cacaopods_ {
+  umbrella header "Pods-CartoonHomework8(cacaopods)-umbrella.h"
+
+  export *
+  module * { export * }
+}
